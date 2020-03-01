@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/httpclient-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/joda-time-2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/okhttp-3.14.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/java-sdk-core-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/okio-1.17.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/httpcore-4.4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

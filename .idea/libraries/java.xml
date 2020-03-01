@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/huaweicloud-java-sdk-1.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/APIGW-java-sdk-3.1.0/libs/huaweicloud-java-sdk-1.0.20.jar!/" />
+    </SOURCES>
+  </library>
+</component>
